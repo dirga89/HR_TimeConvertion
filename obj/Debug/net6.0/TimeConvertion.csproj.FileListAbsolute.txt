@@ -1,0 +1,15 @@
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\bin\Debug\net6.0\TimeConvertion.exe
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\bin\Debug\net6.0\TimeConvertion.deps.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\bin\Debug\net6.0\TimeConvertion.runtimeconfig.json
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\bin\Debug\net6.0\TimeConvertion.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\bin\Debug\net6.0\TimeConvertion.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.csproj.AssemblyReference.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.GeneratedMSBuildEditorConfig.editorconfig
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.AssemblyInfoInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.AssemblyInfo.cs
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.csproj.CoreCompileInputs.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\refint\TimeConvertion.dll
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.pdb
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\TimeConvertion.genruntimeconfig.cache
+I:\Project\HackerRank\OneMonthPreparation\Week01\TimeConvertion\obj\Debug\net6.0\ref\TimeConvertion.dll
